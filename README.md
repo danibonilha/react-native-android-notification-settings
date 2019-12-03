@@ -4,7 +4,7 @@ This native module provides a method to directly open the notification settings'
 
 ## Getting started
 
-`$ yarn add rn-android-notification-settings`
+`$ yarn add https://github.com/danibonilha/rn-android-notification-settings.git`
 
 ### Linking
 
