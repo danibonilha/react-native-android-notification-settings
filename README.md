@@ -13,7 +13,7 @@ This native module provides a method to directly open the notification settings'
 ## Usage
 
 ```ts
-import { openNotificationSettings } from "rn-android-notification-settings";
+import AndroidNotificationSettings from "rn-android-notification-settings";
 
-openNotificationSettings(); // Opens app's system notification settings.
+AndroidNotificationSettings.openNotificationSettings(); // Opens app's system notification settings.
 ```
