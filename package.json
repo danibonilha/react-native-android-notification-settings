@@ -1,0 +1,33 @@
+{
+  "name": "rn-android-notification-settings",
+  "title": "React Native Android Notification Settings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danibonilha/rn-android-notification-settings.git",
+    "baseUrl": "https://github.com/danibonilha/rn-android-notification-settings"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Daniele Bonilha",
+    "email": "dani.bonilha@live.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
