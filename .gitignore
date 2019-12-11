@@ -40,3 +40,12 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
+
+# Runtime data
+tmp
+build
+dist
+
+# Logs
+*.log
+npm-debug.log

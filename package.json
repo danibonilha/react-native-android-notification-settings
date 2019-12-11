@@ -1,8 +1,8 @@
 {
   "name": "rn-android-notification-settings",
   "title": "React Native Android Notification Settings",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "This native module provides a method to directly open the notification settings' of your app on Android's system.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -14,15 +14,16 @@
     "baseUrl": "https://github.com/danibonilha/rn-android-notification-settings"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "android",
+    "mobile",
+    "notifications",
+    "settings",
+    "native"
   ],
-  "author": {
-    "name": "Daniele Bonilha",
-    "email": "dani.bonilha@live.com"
-  },
+  "author": "Daniele Bonilha <dani.bonilha@live.com>",
   "license": "MIT",
   "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.8.1",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
@@ -30,5 +31,9 @@
   "devDependencies": {
     "react": "^16.8.3",
     "react-native": "^0.59.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/danibonilha/rn-android-notification-settings/issues"
+  },
+  "homepage": "https://github.com/danibonilha/rn-android-notification-settings#readme"
 }
